@@ -1,7 +1,7 @@
 
 /* Primary color theme */
 :root {
-    --accent-color: #C82647;
+    --accent-color: #2664c8;
     --accent-color-contrast: hsl(0, 0%, 55%);
 
     --background-color: hsl(0, 0%, 96%);
@@ -21,7 +21,7 @@
     --scrollbar-color: 255,255,255;
     --scrollbar-accent: 0,0,0;
 
-    --header-color: #C82647;
+    --header-color: #2664c8;
     --header-links-color: #fff;
     --header-menu-icon-color: #fff;
 

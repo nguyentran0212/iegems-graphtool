@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Moondrop",
+    "phones": [
+      {"name":"Aria"},
+      {"name":"Blessing 2"},
+      {"name":"Chu"}
+    ]
+  },
+  {
+    "name": "Final Audio",
+    "phones": [
+      {"name":"A4000"},
+      {"name":"E3000"},
+      {"name":"E5000"}
+    ]
+  },
+  {
+    "name": "Fiio",
+    "phones": [
+      {"name":"FD5"},
+      {"name":"FH3"},
+      {"name":"JD3"}
+    ]
+  },
+  {
+    "name": "CCA",
+    "phones": [
+      {"name":"CRA"}
+    ]
+  },
+  {
+    "name": "Campfire Audio",
+    "phones": [
+      {"name":"Andromeda 2020"}
+    ]
+  },
+  {
+    "name": "Qudo",
+    "phones": [
+      {"name":"Earphones with Mic"}
+    ]
+  },
+  {
+    "name": "Shure",
+    "phones": [
+      {"name":"SE215"}
+    ]
+  },
+  {
+    "name": "Sony",
+    "phones": [
+      {"name":"EX15AP"}
+    ]
+  },
+  {
+    "name": "Etymotic",
+    "phones": [
+      {"name":"ER2SE"}
+    ]
+  },
+  {
+    "name": "Moki",
+    "phones": [
+      {"name":"Metallic"}
+    ]
+  },
+  {
+    "name": "Tanchjim",
+    "phones": [
+      {"name":"OLA"}
+    ]
+  },
+  {
+    "name": "Meze",
+    "phones": [
+      {"name":"Advar"}
+    ]
+  },
+  {
+    "name": "Dunu",
+    "phones": [
+      {"name":"Titan S"}
+    ]
+  },
+  {
+    "name": "KZ",
+    "phones": [
+      {"name":"ZSN Pro X"}
+    ]
+  }
+]
+
