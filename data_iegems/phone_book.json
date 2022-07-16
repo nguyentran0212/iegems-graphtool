@@ -84,6 +84,18 @@
     ]
   },
   {
+    "name": "Sennheiser",
+    "phones": [
+      {"name":"IE900"}
+    ]
+  },
+  {
+    "name": "64 Audio",
+    "phones": [
+      {"name":"Trio"}
+    ]
+  },
+  {
     "name": "KZ",
     "phones": [
       {"name":"ZSN Pro X"}
