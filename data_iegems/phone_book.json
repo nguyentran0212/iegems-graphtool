@@ -20,7 +20,8 @@
     "phones": [
       {"name":"FD5"},
       {"name":"FH3"},
-      {"name":"JD3"}
+      {"name":"JD3"},
+      {"name":"FH9"}
     ]
   },
   {
@@ -80,7 +81,8 @@
   {
     "name": "Dunu",
     "phones": [
-      {"name":"Titan S"}
+      {"name":"Titan S"},
+      {"name":"Vulkan"}
     ]
   },
   {
@@ -92,7 +94,9 @@
   {
     "name": "64 Audio",
     "phones": [
-      {"name":"Trio"}
+      {"name":"Trio"},
+      {"name":"U6t"},
+      {"name":"Nio"}
     ]
   },
   {
