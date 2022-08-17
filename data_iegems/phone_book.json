@@ -8,10 +8,16 @@
     ]
   },
   {
+    "name": "Sony",
+    "phones": [
+      {"name":"Z1R", "file":["Z1R Gill"]}
+    ]
+  },
+  {
     "name": "Final Audio",
     "phones": [
       {"name":"A4000"},
-      {"name":"E3000"},
+      {"name":"E3000", "file":["E3000", "E3000 Modded"]},
       {"name":"E5000"}
     ]
   },
@@ -88,7 +94,13 @@
   {
     "name": "Sennheiser",
     "phones": [
-      {"name":"IE900"}
+      {"name":"IE900", "file":["IE900", "IE900 Gill"]}
+    ]
+  },
+  {
+    "name": "Letshuoer",
+    "phones": [
+      {"name":"S12", "file":["S12 Modded", "S12 Modded 2"]}
     ]
   },
   {
