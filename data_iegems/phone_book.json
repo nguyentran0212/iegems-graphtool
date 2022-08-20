@@ -56,6 +56,13 @@
     ]
   },
   {
+    "name": "Westone",
+    "phones": [
+      {"name":"MACH 10"},
+      {"name":"MACH 20"}
+    ]
+  },
+  {
     "name": "Sony",
     "phones": [
       {"name":"EX15AP"}
