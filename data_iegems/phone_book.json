@@ -120,6 +120,13 @@
     ]
   },
   {
+    "name": "Thieaudio",
+    "phones": [
+      {"name":"Monarch MkII"},
+      {"name":"Divinity V16"}
+    ]
+  },
+  {
     "name": "KZ",
     "phones": [
       {"name":"ZSN Pro X"}
