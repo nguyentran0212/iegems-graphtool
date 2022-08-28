@@ -116,7 +116,8 @@
     "phones": [
       {"name":"Trio"},
       {"name":"U6t"},
-      {"name":"Nio"}
+      {"name":"Nio"},
+      {"name": "U12t"}
     ]
   },
   {
@@ -139,4 +140,3 @@
     ]
   }
 ]
-
