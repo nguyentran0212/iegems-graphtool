@@ -29,7 +29,8 @@
       {"name":"FH3"},
       {"name":"JD3"},
       {"name":"FH9"},
-      {"name":"JD7"}
+      {"name":"JD7"},
+      {"name":"FF3 (Earbuds)", "file":["FF3"]}
     ]
   },
   {
@@ -138,6 +139,26 @@
     "name": "KZ",
     "phones": [
       {"name":"ZSN Pro X"}
+    ]
+  },
+  {
+    "name": "Venture Electronic",
+    "phones": [
+      {"name":"Monk+ (Earbuds)", "file": ["Monk Plus"]},
+      {"name":"Master (Earbuds)", "file": ["Master"]}
+    ]
+  },
+  {
+    "name": "Nicehck",
+    "phones": [
+      {"name":"YD30 (Earbuds)", "file": ["YD30"]}
+    ]
+  },
+  {
+    "name": "IE-Gems DIY",
+    "phones": [
+      {"name":"64 Ohm Ti Comp", "file": ["64 ohm Ti Vent + Filter"]},
+      {"name":"150ohm bass", "file": ["150 ohm bass speakers"]}
     ]
   },
   {
