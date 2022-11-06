@@ -155,6 +155,12 @@
     ]
   },
   {
+    "name": "Smabat",
+    "phones": [
+      {"name":"M4 (Earbuds)", "file": ["M4 Stock", "M4 BA", "M4 ST20 Pro", "M4 ST20", "M4 ST10S", "M4 SuperOne"]}
+    ]
+  },
+  {
     "name": "IE-Gems DIY",
     "phones": [
       {"name":"64 Ohm Ti Comp", "file": ["64 ohm Ti Vent + Filter"]},
