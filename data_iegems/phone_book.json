@@ -30,7 +30,8 @@
       {"name":"JD3"},
       {"name":"FH9"},
       {"name":"JD7"},
-      {"name":"FF3 (Earbuds)", "file":["FF3"]}
+      {"name":"FF3 (Earbuds)", "file":["FF3"]},
+      {"name":"FD7"}
     ]
   },
   {
@@ -158,6 +159,12 @@
     "name": "Smabat",
     "phones": [
       {"name":"M4 (Earbuds)", "file": ["M4 Stock", "M4 BA", "M4 ST20 Pro", "M4 ST20", "M4 ST10S", "M4 SuperOne"]}
+    ]
+  },
+  {
+    "name": "TGXear",
+    "phones": [
+      {"name":"Serratus (Earbuds)", "file": ["Serratus Stock", "Serratus Fiio Bal"]}
     ]
   },
   {
