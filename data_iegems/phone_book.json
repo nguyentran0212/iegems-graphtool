@@ -139,6 +139,12 @@
     ]
   },
   {
+    "name": "NF Audio",
+    "phones": [
+      {"name":"RA10"}
+    ]
+  },
+  {
     "name": "KZ",
     "phones": [
       {"name":"ZSN Pro X"}
