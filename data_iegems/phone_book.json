@@ -33,7 +33,16 @@
       {"name":"FF3 (Earbuds)", "file":["FF3"]},
       {"name":"FF5 (Earbuds)", "file":["FF5"]},
       {"name":"FD7"},
-      {"name":"FW5"}
+      {"name":"FW5"},
+      {"name":"FH15", "file":["FH15 Balanced", "FH15 Bass", "FH15 Treble"]}
+    ]
+  },
+  {
+    "name": "HiBy",
+    "phones": [
+      {"name":"Crystal 6I"},
+      {"name":"Crystal 6II"},
+      {"name":"Zeta"}
     ]
   },
   {
@@ -101,7 +110,8 @@
     "name": "Dunu",
     "phones": [
       {"name":"Titan S"},
-      {"name":"Vulkan"}
+      {"name":"Vulkan"},
+      {"name":"Talos", "file":["Talos No BA", "Talos BA"]}
     ]
   },
   {
@@ -119,7 +129,8 @@
   {
     "name": "Hidizs",
     "phones": [
-      {"name":"MD4", "file":["MD4 00", "MD4 01", "MD4 10", "MD4 11"]}
+      {"name":"MD4", "file":["MD4 00", "MD4 01", "MD4 10", "MD4 11"]},
+      {"name":"MS5", "file":["MS5 Treble"]}
     ]
   },
   {
@@ -128,7 +139,8 @@
       {"name":"Trio"},
       {"name":"U6t"},
       {"name":"Nio"},
-      {"name": "U12t"}
+      {"name": "U12t"},
+      {"name":"Fourte Blanc"}
     ]
   },
   {
@@ -136,6 +148,36 @@
     "phones": [
       {"name":"Monarch MkII"},
       {"name":"Divinity V16"}
+    ]
+  },
+  {
+    "name": "Effect Audio",
+    "phones": [
+      {"name":"Gaea"}
+    ]
+  },
+  {
+    "name": "Noble Audio",
+    "phones": [
+      {"name":"Kublai Khan"}
+    ]
+  },
+  {
+    "name": "7Hz",
+    "phones": [
+      {"name":"Legato"}
+    ]
+  },
+  {
+    "name": "KiwiEars",
+    "phones": [
+      {"name":"Orchestra Lite"}
+    ]
+  },
+  {
+    "name": "AFUL",
+    "phones": [
+      {"name":"P5"}
     ]
   },
   {
