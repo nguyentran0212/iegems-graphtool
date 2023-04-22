@@ -111,7 +111,8 @@
     "phones": [
       {"name":"Titan S"},
       {"name":"Vulkan"},
-      {"name":"Talos", "file":["Talos No BA", "Talos BA"]}
+      {"name":"Talos", "file":["Talos No BA", "Talos BA"]},
+      {"name":"SA6II", "file":["SA6II Off", "SA6II On"]}
     ]
   },
   {
