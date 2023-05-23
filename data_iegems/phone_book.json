@@ -35,6 +35,7 @@
       {"name":"FF5 (Earbuds)", "file":["FF5"]},
       {"name":"FD7"},
       {"name":"FW5"},
+      {"name":"FD11"},
       {"name":"FH15", "file":["FH15 Balanced", "FH15 Bass", "FH15 Treble"]}
     ]
   },
@@ -105,6 +106,12 @@
     "name": "Meze",
     "phones": [
       {"name":"Advar"}
+    ]
+  },
+  {
+    "name": "Simgot",
+    "phones": [
+      {"name":"EW100P"}
     ]
   },
   {
@@ -217,6 +224,12 @@
     "name": "TGXear",
     "phones": [
       {"name":"Serratus (Earbuds)", "file": ["Serratus Stock", "Serratus Fiio Bal"]}
+    ]
+  },
+  {
+    "name": "RikuBuds",
+    "phones": [
+      {"name":"GAS2 (Earbuds)", "file": ["GAS2"]}
     ]
   },
   {
