@@ -148,7 +148,7 @@
       {"name":"Trio"},
       {"name":"U6t"},
       {"name":"Nio"},
-      {"name": "U12t"},
+      {"name": "U12t", "file":["U12t M15", "U12t MX", "U12t M20"]},
       {"name":"Fourte Blanc"}
     ]
   },
@@ -186,7 +186,8 @@
   {
     "name": "AFUL",
     "phones": [
-      {"name":"P5"}
+      {"name":"P5"},
+      {"name":"P8"}
     ]
   },
   {
