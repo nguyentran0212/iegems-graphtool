@@ -40,7 +40,7 @@ const init_phones = ["Advar"],                             // Optional. Which gr
 const targets = [
     { type:"Preference",    files:["IEGems"] },
     { type:"Reference",    files:["IEF IEM","Diffuse Field","Harman IE 2019 v2"] },
-    { type:"Personal",   files:["Precog","Super Review"] }
+    { type:"Reviewer",   files:["Precog","Super Review", "Toranku"] }
 ];
 
 
