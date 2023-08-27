@@ -5,7 +5,8 @@
       {"name":"Aria"},
       {"name":"Blessing 2"},
       {"name":"Blessing 3"},
-      {"name":"Chu"}
+      {"name":"Chu"},
+      {"name":"Variations"}
     ]
   },
   {
@@ -37,6 +38,7 @@
       {"name":"FW5"},
       {"name":"FD11"},
       {"name":"FH15", "file":["FH15 Balanced", "FH15 Bass", "FH15 Treble"]}
+      {"name":"FH11", "file":["FH11", "FH11 Preproduction"]}
     ]
   },
   {
@@ -51,6 +53,18 @@
     "name": "CCA",
     "phones": [
       {"name":"CRA"}
+    ]
+  },
+  {
+    "name": "TruthEars",
+    "phones": [
+      {"name":"Zero"}
+    ]
+  },
+  {
+    "name": "Symphonium",
+    "phones": [
+      {"name":"Helios"}
     ]
   },
   {
@@ -76,6 +90,13 @@
     "phones": [
       {"name":"MACH 10"},
       {"name":"MACH 20"}
+    ]
+  },
+  {
+    "name": "Vision Ears",
+    "phones": [
+      {"name":"EXT"},
+      {"name":"Phonix"}
     ]
   },
   {
@@ -121,6 +142,7 @@
       {"name":"Vulkan"},
       {"name":"Talos", "file":["Talos No BA", "Talos BA"]},
       {"name":"SA6II", "file":["SA6II Off", "SA6II On"]}
+      {"name":"Falcon Ultra", "file":["Falcon Ultra Blue", "Falcon Ultra Gold"]}
     ]
   },
   {
@@ -156,7 +178,8 @@
     "name": "Thieaudio",
     "phones": [
       {"name":"Monarch MkII"},
-      {"name":"Divinity V16"}
+      {"name":"Divinity V16"},
+      {"name":"Hype2"}
     ]
   },
   {
@@ -180,7 +203,8 @@
   {
     "name": "KiwiEars",
     "phones": [
-      {"name":"Orchestra Lite"}
+      {"name":"Orchestra Lite"},
+      {"name": "Quartet", "file":["Quartet 00", "Quartet 01", "Quartet 10", "Quartet 11"]}
     ]
   },
   {
@@ -194,6 +218,24 @@
     "name": "NF Audio",
     "phones": [
       {"name":"RA10"}
+    ]
+  },
+  {
+    "name": "Unique Melody",
+    "phones": [
+      {"name":"MEST3"}
+    ]
+  },
+  {
+    "name": "Plussound",
+    "phones": [
+      {"name":"Allegro"}
+    ]
+  },
+  {
+    "name": "AuR Audio",
+    "phones": [
+      {"name":"Aurora"}
     ]
   },
   {
