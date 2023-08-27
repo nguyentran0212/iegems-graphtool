@@ -37,7 +37,7 @@
       {"name":"FD7"},
       {"name":"FW5"},
       {"name":"FD11"},
-      {"name":"FH15", "file":["FH15 Balanced", "FH15 Bass", "FH15 Treble"]}
+      {"name":"FH15", "file":["FH15 Balanced", "FH15 Bass", "FH15 Treble"]},
       {"name":"FH11", "file":["FH11", "FH11 Preproduction"]}
     ]
   },
@@ -141,7 +141,7 @@
       {"name":"Titan S"},
       {"name":"Vulkan"},
       {"name":"Talos", "file":["Talos No BA", "Talos BA"]},
-      {"name":"SA6II", "file":["SA6II Off", "SA6II On"]}
+      {"name":"SA6II", "file":["SA6II Off", "SA6II On"]},
       {"name":"Falcon Ultra", "file":["Falcon Ultra Blue", "Falcon Ultra Gold"]}
     ]
   },
