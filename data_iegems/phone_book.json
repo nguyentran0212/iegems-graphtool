@@ -42,11 +42,23 @@
     ]
   },
   {
+    "name": "Elysian Acoustic Labs",
+    "phones": [
+      {"name":"Diva 2023", "file":["Diva Mid Bass", "Diva Low Bass", "Diva High Bass"]}
+    ]
+  },
+  {
     "name": "HiBy",
     "phones": [
       {"name":"Crystal 6I"},
       {"name":"Crystal 6II"},
       {"name":"Zeta"}
+    ]
+  },
+  {
+    "name": "Kinera",
+    "phones": [
+      {"name":"Phoenixcall"}
     ]
   },
   {
