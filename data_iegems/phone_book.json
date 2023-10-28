@@ -80,6 +80,18 @@
     ]
   },
   {
+    "name": "Yanyin",
+    "phones": [
+      {"name":"Canon 2", "file":["Canon 2 00", "Canon 2 01", "Canon 2 10", "Canon 2 11"]}
+    ]
+  },
+  {
+    "name": "7th Acoustics",
+    "phones": [
+      {"name":"Supernova"}
+    ]
+  },
+  {
     "name": "Campfire Audio",
     "phones": [
       {"name":"Andromeda 2020"}
@@ -173,7 +185,8 @@
     "name": "Hidizs",
     "phones": [
       {"name":"MD4", "file":["MD4 00", "MD4 01", "MD4 10", "MD4 11"]},
-      {"name":"MS5", "file":["MS5 Treble"]}
+      {"name":"MS5", "file":["MS5 Treble"]},
+      {"name":"MP145", "file":["MP145 Bass", "MP145 Balanced", "MP145 Treble"]}
     ]
   },
   {
