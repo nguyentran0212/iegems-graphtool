@@ -156,7 +156,8 @@
   {
     "name": "Simgot",
     "phones": [
-      {"name":"EW100P"}
+      {"name":"EW100P"},
+      {"name":"EM6L"}
     ]
   },
   {
@@ -236,7 +237,8 @@
     "name": "AFUL",
     "phones": [
       {"name":"P5"},
-      {"name":"P8"}
+      {"name":"P8"},
+      {"name":"Magic One"}
     ]
   },
   {
