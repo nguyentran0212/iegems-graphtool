@@ -272,6 +272,12 @@
     ]
   },
   {
+    "name": "ZiiGaat",
+    "phones": [
+      {"name":"Cinno"}
+    ]
+  },
+  {
     "name": "Venture Electronic",
     "phones": [
       {"name":"Monk+ (Earbuds)", "file": ["Monk Plus"]},
@@ -281,7 +287,8 @@
   {
     "name": "Nicehck",
     "phones": [
-      {"name":"YD30 (Earbuds)", "file": ["YD30"]}
+      {"name":"YD30 (Earbuds)", "file": ["YD30"]},
+      {"name":"F1 Pro"}
     ]
   },
   {
