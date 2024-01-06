@@ -285,6 +285,19 @@
     ]
   },
   {
+    "name": "Penon",
+    "phones": [
+      {"name":"Dome"},
+      {"name":"Turbo", "file": ["Turbo 0000", "Turbo 0001", "Turbo 0010", "Turbo 0011", "Turbo 0100", "Turbo 0110", "Turbo 0111", "Turbo 1000", "Turbo 1100", "Turbo 1111"]}
+    ]
+  },
+  {
+    "name": "ISN",
+    "phones": [
+      {"name":"Neo5"}
+    ]
+  },
+  {
     "name": "Nicehck",
     "phones": [
       {"name":"YD30 (Earbuds)", "file": ["YD30"]},
