@@ -52,7 +52,8 @@
     "phones": [
       {"name":"Crystal 6I"},
       {"name":"Crystal 6II"},
-      {"name":"Zeta"}
+      {"name":"Zeta"}, 
+      {"name":"Yvain"}
     ]
   },
   {
@@ -62,9 +63,22 @@
     ]
   },
   {
+    "name": "Yialai",
+    "phones": [
+      {"name":"Carat"}
+    ]
+  },
+  {
+    "name": "Pula",
+    "phones": [
+      {"name":"PA02"}
+    ]
+  },
+  {
     "name": "CCA",
     "phones": [
-      {"name":"CRA"}
+      {"name":"CRA"},
+      {"name":"Trio", "file":["Trio 0000", "Trio 0001", "Trio 0010", "Trio 0011", "Trio 0100", "Trio 1000", "Trio 1100", "Trio 1111"]}
     ]
   },
   {
