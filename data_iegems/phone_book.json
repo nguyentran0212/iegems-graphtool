@@ -57,6 +57,13 @@
     ]
   },
   {
+    "name": "FatFreq",
+    "phones": [
+      {"name":"Maestro Mini"},
+      {"name":"Scarlet Mini"}
+    ]
+  },
+  {
     "name": "Kinera",
     "phones": [
       {"name":"Phoenixcall"}
