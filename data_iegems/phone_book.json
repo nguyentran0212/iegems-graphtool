@@ -97,7 +97,9 @@
   {
     "name": "Symphonium",
     "phones": [
-      {"name":"Helios"}
+      {"name":"Helios"},
+      {"name":"Crimson"},
+      {"name":"Meteor"}
     ]
   },
   {
@@ -251,6 +253,7 @@
     "name": "KiwiEars",
     "phones": [
       {"name":"Orchestra Lite"},
+      {"name":"Singolo"},
       {"name": "Quartet", "file":["Quartet 00", "Quartet 01", "Quartet 10", "Quartet 11"]}
     ]
   },
