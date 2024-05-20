@@ -44,7 +44,9 @@
   {
     "name": "Elysian Acoustic Labs",
     "phones": [
-      {"name":"Diva 2023", "file":["Diva Mid Bass", "Diva Low Bass", "Diva High Bass"]}
+      {"name":"Diva 2023", "file":["Diva Mid Bass", "Diva Low Bass", "Diva High Bass"]},
+      {"name":"Pilgrim"},
+      {"name":"Annihilator 2023"}
     ]
   },
   {
@@ -181,7 +183,8 @@
     "name": "Simgot",
     "phones": [
       {"name":"EW100P"},
-      {"name":"EM6L"}
+      {"name":"EM6L"},
+      {"name":"EA1000", "file": ["EA1000 Red", "EA1000 Gold", "EA1000 Black"]}
     ]
   },
   {
@@ -263,7 +266,8 @@
     "phones": [
       {"name":"P5"},
       {"name":"P8"},
-      {"name":"Magic One"}
+      {"name":"Magic One"},
+      {"name":"Explorer"}
     ]
   },
   {
@@ -275,7 +279,8 @@
   {
     "name": "Unique Melody",
     "phones": [
-      {"name":"MEST3"}
+      {"name":"MEST3"},
+      {"name":"3DT"}
     ]
   },
   {
