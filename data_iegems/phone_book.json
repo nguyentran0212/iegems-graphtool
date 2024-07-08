@@ -184,7 +184,8 @@
     "phones": [
       {"name":"EW100P"},
       {"name":"EM6L"},
-      {"name":"EA1000", "file": ["EA1000 Red", "EA1000 Gold", "EA1000 Black"]}
+      {"name":"EA1000", "file": ["EA1000 Red", "EA1000 Gold", "EA1000 Black"]},
+      {"name":"Supermix4", "file": ["Supermix 4", "Supermix 4 75ohm"]}
     ]
   },
   {
@@ -268,6 +269,12 @@
     ]
   },
   {
+    "name": "Juzear",
+    "phones": [
+      {"name": "61T", "file":["61T", "61T 75ohm"]}
+    ]
+  },
+  {
     "name": "AFUL",
     "phones": [
       {"name":"P5"},
@@ -310,7 +317,8 @@
   {
     "name": "ZiiGaat",
     "phones": [
-      {"name":"Cinno"}
+      {"name":"Cinno"},
+      {"name":"Arete", "file": ["Arete", "Arete 75ohm"]}
     ]
   },
   {
