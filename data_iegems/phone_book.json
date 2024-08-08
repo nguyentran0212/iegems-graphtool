@@ -191,7 +191,9 @@
       {"name":"EW100P"},
       {"name":"EM6L"},
       {"name":"EA1000", "file": ["EA1000 Red", "EA1000 Gold", "EA1000 Black"]},
-      {"name":"Supermix4", "file": ["Supermix 4", "Supermix 4 75ohm"]}
+      {"name":"Supermix4", "file": ["Supermix 4", "Supermix 4 75ohm"]},
+      {"name":"EW300", "file": ["EW300 Red", "EW300 Pink"]},
+      {"name":"EW300 DSP", "file": ["EW300 DSP Red", "EW300 DSP Pink"]}
     ]
   },
   {
