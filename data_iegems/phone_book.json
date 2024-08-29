@@ -193,7 +193,7 @@
       {"name":"EA1000", "file": ["EA1000 Red", "EA1000 Gold", "EA1000 Black"]},
       {"name":"Supermix4", "file": ["Supermix 4", "Supermix 4 75ohm"]},
       {"name":"EW300", "file": ["EW300 Red", "EW300 Pink"]},
-      {"name":"EW300 DSP", "file": ["EW300 DSP Red", "EW300 DSP Pink"]}
+      {"name":"EW300 DSP", "file": ["EW300 DSP Red", "EW300 DSP Pink", "EW300 DSP Analog Red"]}
     ]
   },
   {
@@ -223,7 +223,7 @@
     "phones": [
       {"name":"MD4", "file":["MD4 00", "MD4 01", "MD4 10", "MD4 11"]},
       {"name":"MS5", "file":["MS5 Treble"]},
-      {"name":"MP145", "file":["MP145 Bass", "MP145 Balanced", "MP145 Treble"]}
+      {"name":"MP145", "file":["MP145 Bass", "MP145 Balanced", "MP145 Treble", "MP145 Sample 2 Bass",  "MP145 Sample 2 Balanced",  "MP145 Sample 2 Treble"]}
     ]
   },
   {
