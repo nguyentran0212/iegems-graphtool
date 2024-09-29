@@ -289,7 +289,8 @@
       {"name":"P5"},
       {"name":"P8"},
       {"name":"Magic One"},
-      {"name":"Explorer"}
+      {"name":"Explorer"},
+      {"name":"Cantor"}
     ]
   },
   {
@@ -298,6 +299,13 @@
       {"name":"RA10"}
     ]
   },
+  {
+    "name": "Canpur",
+    "phones": [
+      {"name":"CP54E"}
+    ]
+  },
+
   {
     "name": "Unique Melody",
     "phones": [
