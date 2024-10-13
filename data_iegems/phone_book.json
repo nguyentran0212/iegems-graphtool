@@ -287,6 +287,7 @@
     "name": "AFUL",
     "phones": [
       {"name":"P5"},
+      {"name":"Performer 5+2", "file": ["Performer 7"]},
       {"name":"P8"},
       {"name":"Magic One"},
       {"name":"Explorer"},
@@ -349,13 +350,21 @@
     "name": "Penon",
     "phones": [
       {"name":"Dome"},
-      {"name":"Turbo", "file": ["Turbo 0000", "Turbo 0001", "Turbo 0010", "Turbo 0011", "Turbo 0100", "Turbo 0110", "Turbo 0111", "Turbo 1000", "Turbo 1100", "Turbo 1111"]}
+      {"name":"Turbo", "file": ["Turbo 0000", "Turbo 0001", "Turbo 0010", "Turbo 0011", "Turbo 0100", "Turbo 0110", "Turbo 0111", "Turbo 1000", "Turbo 1100", "Turbo 1111"]},
+      {"name": "Voltage", "file": ["Voltage 00","Voltage 01","Voltage 10","Voltage 11"]}
     ]
   },
   {
     "name": "ISN",
     "phones": [
-      {"name":"Neo5"}
+      {"name":"Neo5"},
+      {"name": "H60"}
+    ]
+  },
+  {
+    "name": "DITA",
+    "phones": [
+      {"name": "Project M"}
     ]
   },
   {
