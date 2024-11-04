@@ -103,7 +103,9 @@
     "phones": [
       {"name":"Helios"},
       {"name":"Crimson"},
-      {"name":"Meteor"}
+      {"name":"Meteor"},
+      {"name":"Titan"},
+      {"name":"Europa"}
     ]
   },
   {
