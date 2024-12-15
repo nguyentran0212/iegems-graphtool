@@ -375,7 +375,9 @@
     "phones": [
       {"name":"YD30 (Earbuds)", "file": ["YD30"]},
       {"name":"F1 Pro"},
-      {"name":"DB2"}
+      {"name":"DB2"},
+      {"name":"B80"},
+      {"name":"NX8"}
     ]
   },
   {
@@ -388,6 +390,12 @@
     "name": "TGXear",
     "phones": [
       {"name":"Serratus (Earbuds)", "file": ["Serratus Stock", "Serratus Fiio Bal"]}
+    ]
+  },
+  {
+    "name":"Lime Ears",
+    "phones":[
+      {"name":"Terra"}
     ]
   },
   {
