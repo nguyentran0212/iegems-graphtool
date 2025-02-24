@@ -25,6 +25,12 @@
     ]
   },
   {
+    "name": "Soranik",
+    "phones": [
+      {"name":"MEMS-3", "file":["MEMS-3", "MEMS-3 Sample 2"]}
+    ]
+  },
+  {
     "name": "Fiio",
     "phones": [
       {"name":"FD5"},
