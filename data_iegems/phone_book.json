@@ -62,6 +62,7 @@
       {"name":"Crystal 6II"},
       {"name":"Zeta"}, 
       {"name":"Yvain"},
+      {"name":"Yacht10"},
       {"name":"Project ACE"},
       {"name":"Xeno", "file":["Xeno v0.06", "Xeno v0.08", "Xeno v0.09", "Xeno v0.11"]}
     ]
@@ -301,7 +302,8 @@
       {"name":"P8"},
       {"name":"Magic One"},
       {"name":"Explorer"},
-      {"name":"Cantor"}
+      {"name":"Cantor"},
+      {"name":"PolarNight", "file": ["PolarNight Black Foam"]}
     ]
   },
   {
