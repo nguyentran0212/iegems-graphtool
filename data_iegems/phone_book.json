@@ -235,6 +235,7 @@
       {"name":"MD4", "file":["MD4 00", "MD4 01", "MD4 10", "MD4 11"]},
       {"name":"MS5", "file":["MS5 Treble"]},
       {"name":"MP145", "file":["MP145 Bass", "MP145 Balanced", "MP145 Treble", "MP145 Sample 2 Bass",  "MP145 Sample 2 Balanced",  "MP145 Sample 2 Treble"]},
+      {"name":"MK12", "file":["MK12 Gold", "MK12 Silver", "MK12 Red"]},
       {"name":"ST2"}
     ]
   },
