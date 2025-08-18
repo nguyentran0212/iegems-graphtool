@@ -90,7 +90,8 @@
     "name": "Pula",
     "phones": [
       {"name":"PA02"},
-      {"name":"Anvil"}
+      {"name":"Anvil"},
+      {"name":"Unicrom"}
     ]
   },
   {
@@ -214,7 +215,9 @@
       {"name":"Vulkan"},
       {"name":"Talos", "file":["Talos No BA", "Talos BA"]},
       {"name":"SA6II", "file":["SA6II Off", "SA6II On"]},
-      {"name":"Falcon Ultra", "file":["Falcon Ultra Blue", "Falcon Ultra Gold"]}
+      {"name":"Falcon Ultra", "file":["Falcon Ultra Blue", "Falcon Ultra Gold"]},
+      {"name": "Vulkan 2"},
+      {"name": "ITO"}
     ]
   },
   {
@@ -236,7 +239,8 @@
       {"name":"MS5", "file":["MS5 Treble"]},
       {"name":"MP145", "file":["MP145 Bass", "MP145 Balanced", "MP145 Treble", "MP145 Sample 2 Bass",  "MP145 Sample 2 Balanced",  "MP145 Sample 2 Treble"]},
       {"name":"MK12", "file":["MK12 Gold", "MK12 Silver", "MK12 Red"]},
-      {"name":"ST2"}
+      {"name":"ST2"},
+      {"name":"MS2 Pro"}
     ]
   },
   {
@@ -305,6 +309,12 @@
       {"name":"Explorer"},
       {"name":"Cantor"},
       {"name":"PolarNight", "file": ["PolarNight Black Foam"]}
+    ]
+  },
+  {
+    "name": "Yu9",
+    "phones": [
+      {"name": "Que"}
     ]
   },
   {
