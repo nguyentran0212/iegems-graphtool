@@ -296,7 +296,14 @@
   {
     "name": "Juzear",
     "phones": [
-      {"name": "61T", "file":["61T", "61T 75ohm"]}
+      {"name": "61T", "file":["61T", "61T 75ohm"]},
+      {"name": "Harrier"}
+    ]
+  },
+  {
+    "name": "KBEAR",
+    "phones": [
+      {"name": "Tourbillon-Pro"}
     ]
   },
   {
