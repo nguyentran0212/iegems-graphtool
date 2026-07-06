@@ -1,4 +1,8 @@
-# Rohsa Graph Tool (CrinGraph)
+# IEGems Graph Tool (CrinGraph)
+
+A fork of the [Rohsa Graph Tool](https://rohsa.gitlab.io/graphtool/) (itself a fork of [CrinGraph](https://github.com/mlochbaum/CrinGraph)) customised for the [IEGems](https://iegems.nk-tran.com) IEM review blog. CrinGraph is open-source under a permissive license held by Marshall Lochbaum — see [`LICENSE`](LICENSE). The upstream license, Rohsa modifications, and CrinGraph credits that follow are preserved verbatim below.
+
+Rohsa Graph Tool (CrinGraph)
 
 My graph tool based on CrinGraph.
 
