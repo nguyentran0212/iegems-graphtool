@@ -12,7 +12,8 @@
   {
     "name": "Sony",
     "phones": [
-      {"name":"Z1R", "file":["Z1R Gill"]}
+      {"name":"Z1R", "file":["Z1R Gill"]},
+      {"name":"EX15AP"}
     ]
   },
   {
@@ -159,12 +160,6 @@
     "phones": [
       {"name":"EXT"},
       {"name":"Phonix"}
-    ]
-  },
-  {
-    "name": "Sony",
-    "phones": [
-      {"name":"EX15AP"}
     ]
   },
   {
