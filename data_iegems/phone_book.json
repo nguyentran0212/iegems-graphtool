@@ -217,7 +217,8 @@
       {"name":"SA6II", "file":["SA6II Off", "SA6II On"]},
       {"name":"Falcon Ultra", "file":["Falcon Ultra Blue", "Falcon Ultra Gold"]},
       {"name": "Vulkan 2"},
-      {"name": "ITO"}
+      {"name": "ITO"},
+      {"name": "Alpha3 (Earbuds)", "file": ["Alpha3"]}
     ]
   },
   {
